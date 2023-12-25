@@ -30,14 +30,7 @@ From your command line:
 $ git clone https://github.com/Yvonne-OH/Google_Tile_Map_Download-Merge.git
 
 # Go into the repository
-$ cd Google_Tile_Map_Download-Merge
-
-# Install dependencies
-$ pip install geopy numpy opencv-python tqdm
-
-# Run the app
-$ Your API KEY ="**********************"
-```
+$ cd xxx
 
 ## License
 
