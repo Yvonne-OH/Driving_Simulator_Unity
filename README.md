@@ -13,7 +13,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](Logo/Weixin Image_20231222224912.png)
+<img src="Logo/Weixin Image_20231222224912.png" alt="Markdownify" width="600">
 
 ## Key Features
 
