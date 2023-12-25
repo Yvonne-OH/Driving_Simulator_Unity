@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">The provided Python script utilizes various modules for GIS mapping, image processing, and merging map tiles.</h4>
+<h4 align="center">Unity-based driving simulator.</h4>
 
 
 <p align="center">
@@ -13,18 +13,12 @@
   <a href="#license">License</a>
 </p>
 
-<img src="Logo/Weixin Image_20231222224912.png" alt="Markdownify" width="600">
+<img src="Logo/Weixin Image_20231222224912.png" alt="Markdownify" width="1000">
 
 ## Key Features
 
-* Map Tile Downloading:
-  - Utilizes the Tile_Map_Download module to download map tiles within a specified geographic area defined by bounding box coordinates.
-* GIS Calculation:
-  - Employs the Gis_Calculate module to calculate distances and midpoint coordinates based on the provided bounding box.
-* Map Tile Merging:
-  - Uses the Tile_Map_Merge module to merge the downloaded map tiles into a single image.
-* Image Processing:
-  - Utilizes the Image_Processing module to enhance the merged image by adding a center marker, a white border, filled corner rectangles, and overlaying logos.
+* Camera Follow
+* vehicle control
 
 ## How To Use
 
