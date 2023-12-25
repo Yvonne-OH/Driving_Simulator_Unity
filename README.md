@@ -13,7 +13,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](merge.jpg)
+![screenshot](Logo/Weixin Image_20231222224912.png)
 
 ## Key Features
 
